@@ -1,0 +1,1 @@
+My solution for this SQL tutorial series . https://sqlzoo.net/wiki/SQL_Tutorial
